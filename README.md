@@ -20,8 +20,9 @@ A Java Swing application that simulates the Non Pre-Emptive Priority Scheduling 
 3. Enter the required number of processes and process details to see the scheduling results.
 
 ## Screenshots
+<img width="765" height="934" alt="image" src="https://github.com/user-attachments/assets/846daa66-2c7f-4656-a2c6-5ac386763d1c" />
+<img width="768" height="940" alt="image" src="https://github.com/user-attachments/assets/4a95d204-d0f8-4eef-9efe-bc867729d1cd" />
 
-*(Add your screenshots here after running the app!)*
 
 ## Author & Timeline
 
